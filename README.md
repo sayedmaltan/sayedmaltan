@@ -59,5 +59,8 @@ I'm a dedicated **Mobile App Developer** focused on crafting exceptional **Flutt
 
 ## 📂 Featured Repositories
 
-![Project 1](https://img.shields.io/badge/Project_1-FF5722?style=flat-square&logo=flutter&logoColor=white)  
-![Project 2](https://img.shields.io/badge/Project_2-9C27B0?style=flat-square&logo=flutter&logoColor=white)
+- [![Convo Space](https://img.shields.io/badge/Convo_Space-FF5722?style=flat-square&logo=flutter&logoColor=white)](https://github.com/sayedmaltan/Convo-Space)  
+- [![Shop App](https://img.shields.io/badge/Shop_App-9C27B0?style=flat-square&logo=flutter&logoColor=white)](https://github.com/sayedmaltan/shop_app)  
+- [![Queue System](https://img.shields.io/badge/Queue_System-4CAF50?style=flat-square&logo=flutter&logoColor=white)](https://github.com/sayedmaltan/queue_system)  
+- [![News App](https://img.shields.io/badge/News_App-2196F3?style=flat-square&logo=flutter&logoColor=white)](https://github.com/sayedmaltan/news_app)  
+- [![Todo App](https://img.shields.io/badge/Todo_App-FFC107?style=flat-square&logo=flutter&logoColor=white)](https://github.com/sayedmaltan/todo_app)
