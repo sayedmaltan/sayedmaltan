@@ -36,10 +36,10 @@ I enjoy transforming ideas into scalable, user-friendly, and high-performance ap
 ## 🚀 Projects
 
 - 📅 **[Timease](https://github.com/sayedmaltan/Timease)** – A smart scheduling app (like Calendly) for managing meetings.  
-- 📚 **[Bookly](https://github.com/sayedmaltan/Bookly)** – Book reading app with API backend, using Cubit MVVM architecture.  
+- 📚 **[Bookly](https://github.com/sayedmaltan/bookly_app)** – Book reading app with API backend, using Cubit MVVM architecture.  
 - 💬 **[Convo Space](https://github.com/sayedmaltan/Convo-Space)** – A real-time chat & social app with Firebase, video calls, and Cubit.  
-- 🏋️ **Fitness App** – Flutter app with Firebase to track workouts and progress.  
-- 🔒 **Image Encryption App** – Encrypt & decrypt images using **AES cryptography** in Dart.  
+- 🏋️ **[Fitness App](https://github.com/sayedmaltan/Fitness-App)** – Flutter app with Firebase to track workouts and progress.  
+- 🔒 **[Image Encryption App](https://github.com/sayedmaltan/encryption-decryptionImage)** – Encrypt & decrypt images using **AES cryptography** in Dart.  
 - 🛍 **[Shop App](https://github.com/sayedmaltan/shop_app)** – E-commerce mobile app with API integration.  
 - 📰 **[News App](https://github.com/sayedmaltan/news_app)** – Browse latest news with API integration.  
 - ✅ **[Todo App](https://github.com/sayedmaltan/todo_app)** – Task management app with clean UI.  
