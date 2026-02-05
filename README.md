@@ -11,6 +11,7 @@ I enjoy transforming ideas into scalable, user-friendly, and high-performance ap
 ## 🛠 Skills & Tools
 
 - **Languages:**
+
   ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
   ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
