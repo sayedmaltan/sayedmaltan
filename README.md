@@ -10,9 +10,12 @@ I enjoy transforming ideas into scalable, user-friendly, and high-performance ap
 
 ## 🛠 Skills & Tools
 
-- **Languages:**  
-  ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)  
+- **Languages:**
+  ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
+  ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 - **Frameworks & Libraries:**  
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)  
